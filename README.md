@@ -4,7 +4,7 @@
 
 ## 在线试玩
 
-访问 [GitHub Pages](https://你的用户名.github.io/tank-battle/) 即可在线游玩。
+访问 [GitHub Pages](https://emma943983.github.io/tank-battle/) 即可在线游玩。
 
 ## 游戏特性
 
